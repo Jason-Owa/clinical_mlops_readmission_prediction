@@ -30,3 +30,4 @@ wheels/
 
 # Personal editor files
 .vscode/
+/mlruns
