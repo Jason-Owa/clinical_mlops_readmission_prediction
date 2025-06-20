@@ -1,4 +1,2 @@
-[core]
-    remote = gdrive_storage
-['remote "gdrive_storage"']
-    url = gdrive://1FqgBaO0nm4PcizfuI7D9OSwg8taAsNFo
+['remote "origin"']
+    url = https://dagshub.com/Jason-Owa/clinical_mlops_readmission_prediction.dvc
