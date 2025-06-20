@@ -1,2 +1,4 @@
-['remote "origin"']
-    url = https://dagshub.com/Jason-Owa/clinical_mlops_readmission_prediction.dvc
+[core]
+    remote = local-storage
+['remote "local-storage"']
+    url = ../dvc-storage
